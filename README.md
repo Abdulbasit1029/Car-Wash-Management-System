@@ -1,4 +1,4 @@
-# weather_app
+# Car-Wash-Management-System
 
 An API-based waether app
 
